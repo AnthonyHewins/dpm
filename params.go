@@ -1,4 +1,4 @@
-package dbm
+package dpm
 
 import (
 	"github.com/goccy/go-reflect"
